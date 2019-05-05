@@ -1,4 +1,12 @@
 extends layouts/main
 
 block content
-    p=login
+
+    p #{login}
+
+    .form_container
+        form(action="/login" method="post")
+            input(type="email" name="email" placeholder="Email")
+            input(type="password" name="password" placeholder="Password")
+            input(type="submit" placeholder="Log In")
+        include partials/socialLogin
