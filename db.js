@@ -4,7 +4,7 @@ export const videos = [
         title : "KMJ",
         description : "strong",
         views : 24,
-        videoFile  : "https://archive.org/details/BigBuckBunny_124",
+        videoFile  : "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator : {
             id : "qwe",
             name : "minjoing",
@@ -16,7 +16,7 @@ export const videos = [
         title : "123",
         description : "nice",
         views : 24,
-        videoFile  : "https://archive.org/details/BigBuckBunny_124",
+        videoFile  : "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator : {
             id : "qwe",
             name : "minjoing",
@@ -28,7 +28,7 @@ export const videos = [
         title : "hungry",
         description : "thin",
         views : 24,
-        videoFile  : "https://archive.org/details/BigBuckBunny_124",
+        videoFile  : "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator : {
             id : "qwe",
             name : "minjoing",
@@ -40,7 +40,7 @@ export const videos = [
         title : "MinJongJJang",
         description : "soo",
         views : 24,
-        videoFile  : "https://archive.org/details/BigBuckBunny_124",
+        videoFile  : "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator : {
             id : "qwe",
             name : "minjoing",
